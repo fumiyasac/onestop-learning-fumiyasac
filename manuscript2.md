@@ -53,6 +53,10 @@
 
 ![expandable_text_input_area_ios_android1.jpg](./images/expandable_text_input_area_ios_android1.jpg)
 
+<!--
+
+* 原稿に掲載されていないノートはコメントアウトしています。
+
 ![expandable_text_input_area_ios_android2.jpg](./images/expandable_text_input_area_ios_android2.jpg)
 
 ![expandable_text_input_area_ios_android3.jpg](./images/expandable_text_input_area_ios_android3.jpg)
@@ -65,7 +69,11 @@
 
 ![android_coodinator_layout_guidance3.jpg](./images/android_coodinator_layout_guidance3.jpg)
 
+-->
+
 ![android_coodinator_layout_guidance4.jpg](./images/android_coodinator_layout_guidance4.jpg)
+
+<!--
 
 ![infinite_carousel_with_timer_change1.jpg](./images/infinite_carousel_with_timer_change1.jpg)
 
@@ -75,13 +83,19 @@
 
 ![infinite_carousel_with_timer_change4.jpg](./images/infinite_carousel_with_timer_change4.jpg)
 
+-->
+
 ![image_about_netflix_onboarding_animation1.jpg](./images/image_about_netflix_onboarding_animation1.jpg)
+
+<!--
 
 ![image_about_netflix_onboarding_animation2.jpg](./images/image_about_netflix_onboarding_animation2.jpg)
 
 ![image_about_netflix_onboarding_animation3.jpg](./images/image_about_netflix_onboarding_animation3.jpg)
 
 ![image_about_netflix_onboarding_animation4.jpg](./images/image_about_netflix_onboarding_animation4.jpg)
+
+-->
 
 ## まとめ
 
